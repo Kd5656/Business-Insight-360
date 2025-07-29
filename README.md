@@ -31,5 +31,3 @@
 - Real-time visibility into business performance
 - Scalable design suitable for SME-level analytics
 - Actionable insights to drive operational and strategic decisions
-
-## 📁 Repository Structure
